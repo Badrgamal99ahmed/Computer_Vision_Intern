@@ -1,4 +1,4 @@
-Water Segmentation using DeepLabV3+
+# Water Segmentation using DeepLabV3+
 
 # Project Overview
 
@@ -16,14 +16,4 @@ This project focuses on segmenting water bodies using multispectral and optical 
 
 * Support for Multiple Backbones: Experiments with ResNet-50, ResNet-101, and MobileNetV3.
 
-# 📂 Dataset
 
-Input: Sentinel-2/Landsat harmonized images (12 bands, 128×128 resolution per patch).
-
-Labels: Binary water masks (water = 1, non-water = 0).
-
-Additional Features:
-
-Coastal aerosol, Blue, Green, Red, NIR, SWIR1, SWIR2 bands.
-
-MERIT DEM, Copernicus DEM, ESA World Cover Map, and Water Occurrence Probability.
