@@ -4,7 +4,7 @@
 
 This project focuses on segmenting water bodies using multispectral and optical satellite data from Sentinel-2/Landsat. We leverage DeepLabV3+ with different backbones (ResNet-50, ResNet-101, MobileNetV3) to improve segmentation accuracy. The model is fine-tuned using a dataset containing 12 spectral bands with a binary water mask.
 
-🚀 Features
+ Features
 
 * Multispectral Image Processing: Uses Sentinel-2/Landsat data for better water segmentation.
 
